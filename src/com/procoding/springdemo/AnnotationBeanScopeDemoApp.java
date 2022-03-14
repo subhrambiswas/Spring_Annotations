@@ -1,6 +1,5 @@
 package com.procoding.springdemo;
 
-import com.procoding.springdemo.Coach;
 import org.springframework.context.support.ClassPathXmlApplicationContext;
 
 public class AnnotationBeanScopeDemoApp {
