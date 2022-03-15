@@ -17,7 +17,8 @@ public class RandomFortuneService implements FortuneService {
 			"Always invest in large Cap",
 			"Invest in Infy,TCs,HCL",
 			"Technology is the only solution",
-			"Learn full stack Technology"
+			"Learn full stack Technology",
+			"Be your own Boss!!"
 	};
 	
 	// create a random number generator
