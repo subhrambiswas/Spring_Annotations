@@ -12,7 +12,9 @@ public class RandomFortuneService implements FortuneService {
 			"Beware of the wolf in sheep's clothing",
 			"Diligence is the mother of good luck",
 			"The journey is the reward",
-			"Success is a Journey"
+			"Success is a Journey",
+			"Invest in a mutual funds and equity",
+			"Always invest in large Cap"
 	};
 	
 	// create a random number generator
