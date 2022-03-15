@@ -14,7 +14,8 @@ public class RandomFortuneService implements FortuneService {
 			"The journey is the reward",
 			"Success is a Journey",
 			"Invest in a mutual funds and equity",
-			"Always invest in large Cap"
+			"Always invest in large Cap",
+			"Invest in Infy,TCs,HCL"
 	};
 	
 	// create a random number generator
