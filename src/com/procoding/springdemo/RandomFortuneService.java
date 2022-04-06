@@ -15,12 +15,13 @@ public class RandomFortuneService implements FortuneService {
 			"Success is a Journey",
 			"Invest in a mutual funds and equity",
 			"Always invest in large Cap",
-			"Technology is the only solution"
+			"Technology is the only solution",
 			"Invest in Infy,TCs,HCL",
 			"Technology is the only solution",
 			"Learn full stack Technology",
 			"Be your own Boss!!",
-			"Life is hell"
+			"Life is hell",
+			"Testing rebase and merge"
 	};
 	
 	// create a random number generator
