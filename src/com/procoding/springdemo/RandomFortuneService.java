@@ -21,7 +21,7 @@ public class RandomFortuneService implements FortuneService {
 			"Learn full stack Technology",
 			"Be your own Boss!!",
 			"Life is hell",
-			"Testing rebase and merge and learn and grow"
+			"Testing rebase and merge and learn and grow and earn"
 	};
 	
 	// create a random number generator
