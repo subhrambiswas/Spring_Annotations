@@ -8,20 +8,20 @@ import org.springframework.stereotype.Component;
 public class RandomFortuneService implements FortuneService {
 
 	// create an array of strings
-	private String[] data = { 
+	private String[] data = {
 			"Beware of the wolf in sheep's clothing",
 			"Diligence is the mother of good luck",
 			"The journey is the reward",
 			"Success is a Journey",
 			"Invest in a mutual funds and equity",
 			"Always invest in large Cap",
+			"Technology is the only solution",
 			"Invest in Infy,TCs,HCL",
 			"Technology is the only solution",
 			"Learn full stack Technology",
 			"Be your own Boss!!",
 			"Life is hell",
-			"Testing rebase and merge",
-			"testing"
+			"Testing rebase and merge"
 	};
 	
 	// create a random number generator
