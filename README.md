@@ -1,4 +1,4 @@
-# Spring_Annotations
+# Section 1
 Spring and Spring Boot Annotations Usage
 1	Commands in Angular								
 2	What is component in Angular								
@@ -144,6 +144,7 @@ Angular basics"
 23.	Kubernetes architecture
 24.	What is openshift deployment and openshift online
 25.	How to manage openshift Security"
+# Section 10
 "Java 8 features
 How to convert list to set in java 8
 what is the logic for getting reverse order arraylist without using default methods.
@@ -177,7 +178,7 @@ Scope of bean in Spring
 How do you handile unchecked exception
 What all things you know on Angular.
 " "
-# Section 
+# Section 11
 what is Bean Factory Method
 what is Spring AOP
 what is Data Blocks
@@ -228,7 +229,7 @@ write a command to create a container
 how will you clear the image pull error what are the steps you need to follow
 after the deployments if pods are not coming up what are the steps u need to be taken.
 " "
-# Section 
+# Section 12
 Java 8 features
 Interface and abstraction diff
 Advantages of stream
@@ -244,7 +245,7 @@ sql query to select third highest element
 Sql query to find the unique element
 what is indexing in Mysql
 " "
-# Section 6
+# Section 13
 
 Past work experience
 Experience with logging and monitoring tools
@@ -265,7 +266,7 @@ list.remove vs iterator.remove
 deep copy vs shallow copy
 Filter vs interceptor
 ""
-# Section 
+# Section 14
 1. Java 8 features
 2. Inbuilt functional interfaces available and their abstract methods
 3. Stream api - two types of operations with example
@@ -285,7 +286,7 @@ Filter vs interceptor
 17.Sort a list of integers using java 8
 18.Spring security"
 
-# Section 
+# Section 15
 "1. OOPs concept
 2. Explain each of the OOPs concept
 3. Abstract Class, Interface
@@ -312,7 +313,7 @@ Filter vs interceptor
 24. How are you managing Exceptions in your last project.
 25. Functional Interface with valid example
 26. Write a SQL query to find the second highest salary from a employee table contains columns (Name, Age, Salary)
-# Section
+# Section 16
 1.) Sorting without using any inbuild method
 2.) Two maps having some value, Compare it using predicates
 3.) 3rd highest salary of employee
@@ -333,8 +334,7 @@ Filter vs interceptor
 18.) Lazy loading in Angular
 19.) Observable VS Promise
 
-L2 Interview: 
-
+# Section 18
 1. Java 8 features in depth
 Programming in java 8 stream to find the number of each items
 2. Spring boot features
@@ -346,7 +346,6 @@ Singleton Design pattern Implementation
 6. Angular question related to typescript for mapping and filtering data from list of employee
 7. Angular Services explanation with backend service integration and error handling
 8. Microservices basics
-
 "On what projects have you worked before
 what are the microservices
 challenges faced in monolith application
@@ -406,7 +405,6 @@ Springboot starter dependencies."
 "What is the use of API Gateway
 Can AWS APIGateway timeout be modified to make it >30s
 Can we deploy Spring project on AWS Lambda without getting timeout error
-
 Difference between Post, Put and Patch http methods
 Versions of json
 Submit form contains Username and Password/Phone. How Rest API handle the request when user enter all 3 details.
@@ -416,17 +414,15 @@ SpringBoot app is deployed in different countries. Certain functionalities in th
 What are the techniques through which this can be achieved - properties, Spring profiles, maven profiles
 How spring security works
 Types of security to be applied to applications - client id/secret, certificates, IDP
-
 Which DB to prefer for inserting 10000 records - SQL or NoSQL
 How to form relation between tables in case of NoSQL DB
 How to store password in DB - SHA algoritm, Cryptography
 How to connect NoSQL db with springboot
-
 Difference between hashmap, linkedhashmap, treemap with performance
 Which sort is better - Hashmap with comparator/comparable or Hashmap with Java 8 feature or Treemap
 What are the advantages of functional programming" "
 
-# Section 
+# Section 19
 1.Java 8 features 
 2.What is functional interface?
 3.How we can connect HTTP request to spring boot project?
@@ -492,8 +488,7 @@ after the deployments if pods are not coming up what are the steps u need to be 
 11. Dynamic caching in Microservices.
 12. Stream how it works internally.
 " "
-
-# Section 
+# Section 20
 
 1) What is the use of Ingress controller 
 2) If you get a curropted bootloder how you will resolve 
@@ -539,64 +534,40 @@ after the deployments if pods are not coming up what are the steps u need to be 
         	}
 19. How to exclude a class from getting serialized. 
 "
-# Section 
+# Section 21
 "1.	Write a program to implement ArrayList
 2.	Write a program to find the 1st nonrepeating char in a String
 3.	write a program to find the 2nd largest in an array
 4.	implement singleton class (with multithreading feasible)
 5.	implement thread deadlock
-
 6.	if your parent class is serialized and child is not what happens
 7.	if your child class is serialized and parent is not what happens
-
 8.	how to make sure the child class need not be serialized"
 
-
- # Section 6
+ # Section 22
 1.) Explain architecture and functionality of your project.
-
 2.) What are new features which are introduced in Java 8.
-
 3.) Why functional interfaces are introduced. There is already interface in java so why it is required.
-
 4.) What do you mean by Predicate.
-
 5.) How do you implement caching in your application. For realtime applications how you can implement it.
-
 6.) What is TreeSet. How can you determine sorting in it.
-
 7.) What is LinkedHashSet.
-
 8.) Describe internal working for HashSet.
-
 9.) Difference between comparator and comparable.
-
 10.) Difference between Fail-Safe and Fail-Fast iterators.
-
 11.) How do you deploy SpringBoot applications in Cloud.
-
 12.) Give general idea about how cloud technologies can be used in projects.
-
 13.) What do you mean by AWS S3 service and how it is used.
-
 14.) Explain the functionality of Docker and meaning of Pods.
 
- 
-
-Sabre Round 2 (Coding)
-
- 
-
+# Section 23
 1.) Code a functional interface and invoke a String method to show ""Hello World"".
-
 2.) Increase the salary of employees by Rs1000 whose age is greater than 60 years by using Streams concept.
-
 3.) In list of integers(1-10). Sort the integer values 1-5 in ascending order and 6-10 in descending order.
-
 4.) Sort the list of integers by using Streams concept.
 
- "
- "1.Sort the employee list on the basis of age and salary using java 8
+# Section 24
+"1.Sort the employee list on the basis of age and salary using java 8
 2.List down the names of functional interfaces
 3.explain Executorservices life cycle
 4.Spring security implementation
@@ -609,8 +580,3 @@ Sabre Round 2 (Coding)
 11.what is consumer interface and how it works?
 12.How to find max element from list using java 8?
 13.what is qualifier in spring framework?"
-![image](https://github.com/subhrambiswas/Spring_Annotations/assets/82235677/2f48716c-c017-48d1-ac6c-47e8bdce86ec)
-
-
-
-
